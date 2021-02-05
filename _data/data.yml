@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Vadim Lukiashko
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: vadimlukiashko@gmail.com
     phone: +380 666 029 203
-    website: blog.webjeda.com #do not add http://
+    website: vadimaganim.github.io/online-cv/ #do not add http://
     linkedin: vadimlukiashko
     github: vadimaganim
     telegram: vadimaganim
